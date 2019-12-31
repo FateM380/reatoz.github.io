@@ -5,7 +5,16 @@
   "version": "1.5.1",
   "author": "Yuri",
   "description": "将雀魂游戏内人物的“头”替换成“接头霸王-凯露”.",
-  "preview": "https://raw.githubusercontent.com/reatoz/jieToubw/master/preview.jpg",
+  "preview": "preview.jpg",
   "homepage":"https://github.com/reatoz/jieToubw.git"
+  }，
+  {
+  "id": "SeeleVollerei_v3",
+  "name": "一姬改希儿",
+	"version": "3.3.2",
+	"author": ["Yuri","bin", "isroy", "xiaoA233"],
+	"description": "一姬改希儿:包含立绘,语音,大厅&室内背景,开局&结束语音,手纹(圣痕),角色信息;菜名语音;泽尼亚",
+	"preview": "preview.jpg",
+  "homepage":"https://github.com/reatoz/SeeleVollerei.git"
   }
 ]
